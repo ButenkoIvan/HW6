@@ -1,0 +1,12 @@
+2022-12-14 20:50:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
+Table "CLIENT" not found; SQL statement:
+INSERT INTO client (name) VALUES(?) [42102-214]
+2022-12-14 21:05:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
+Table "CLIENT" not found; SQL statement:
+INSERT INTO client (name) VALUES(?) [42102-214]
+2022-12-15 19:54:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
+Table "CLIENT" not found; SQL statement:
+INSERT INTO client (name) VALUES(?) [42102-214]
