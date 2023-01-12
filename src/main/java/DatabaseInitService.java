@@ -10,4 +10,5 @@ public class DatabaseInitService {
                 .load();
         flyway.migrate();
     }
+
 }
