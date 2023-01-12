@@ -50,3 +50,11 @@ INSERT INTO client (name) VALUES(?) [42102-210]
 org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
 Table "CLIENT" not found; SQL statement:
 INSERT INTO client (name) VALUES(?) [42102-210]
+2023-01-12 21:09:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
+Table "CLIENT" not found; SQL statement:
+INSERT INTO client (name) VALUES(?) [42102-210]
+2023-01-12 21:10:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Таблица "CLIENT" не найдена
+Table "CLIENT" not found; SQL statement:
+INSERT INTO client (name) VALUES(?) [42102-210]
